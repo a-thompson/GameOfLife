@@ -1,0 +1,2 @@
+# GameOfLife
+Console Application

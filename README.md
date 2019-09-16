@@ -1,7 +1,7 @@
 # GameOfLife
 
 ### Overview
-*For a class project in CPSC 350 Data Structures and Algorithms at Chapman University, I was told to program Conway's Game of Life with three modes.*
+*For a class project in CPSC 350 Data Structures and Algorithms at Chapman University, I was told to program Conway's Game of Life with three modes.  This was initially programmed in pair-work with Emily Chan, though I have re-written this project since then.*
 >The program will prompt the user to ask for either a file import or if it should randomly generate a puzzle.  If 'Random' is selected, the user will be asked for dimensions and population so the puzzle can be generated.
 
 >The 'Start' class controls the rules for the game.
